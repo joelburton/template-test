@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    class="Letters"
+  >
+    <div
+      class="Letter Letter-isCenter"
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        Z
+      </span>
+    </div>
+    <div
+      class="Letter "
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        A
+      </span>
+    </div>
+    <div
+      class="Letter "
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        B
+      </span>
+    </div>
+    <div
+      class="Letter "
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        C
+      </span>
+    </div>
+    <div
+      class="Letter "
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        D
+      </span>
+    </div>
+    <div
+      class="Letter "
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        E
+      </span>
+    </div>
+    <div
+      class="Letter "
+    >
+      <div
+        class="Letter-hex"
+      >
+        ⬢
+      </div>
+      <span>
+        F
+      </span>
+    </div>
+    <button
+      class="Letters-randomize"
+    >
+      ↻
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,9 @@
+digraph freebee {
+    rankdir=LR
+    graph [margin=0]
+    node [shape=rect]
+    App -> GameLoader -> Game -> { WordList, Letters, Feedback, Form }
+    Letters -> Letter
+    Letter [label="Letter\nLetter\nLetter\nLetter\nLetter\nLetter\nLetter"]
+    WordList [label="WordList\nWordList"]
+}

@@ -1,0 +1,51 @@
+.Letters {
+  position: relative;
+  width: 360px;
+  height: 360px;
+  margin-left: 10px;
+}
+
+.Letters .Letter:nth-child(1) {
+  top: 123px;
+  left: 125px;
+}
+
+.Letters .Letter:nth-child(2) {
+  top: 10px;
+  left: 125px;
+}
+
+.Letters .Letter:nth-child(3) {
+  top: 65px;
+  left: 25px;
+}
+
+.Letters .Letter:nth-child(4) {
+  top: 180px;
+  left: 25px;
+}
+
+.Letters .Letter:nth-child(5) {
+  top: 236px;
+  left: 125px;
+}
+
+.Letters .Letter:nth-child(6) {
+  top: 180px;
+  left: 225px;
+}
+
+.Letters .Letter:nth-child(7) {
+  top: 65px;
+  left: 225px;
+}
+
+.Letters-randomize {
+  position: relative;
+  font-size: 175%;
+  color: gray;
+  border: solid 1px gray;
+  border-radius: 12px;
+  background-color: white;
+  cursor: crosshair;
+}

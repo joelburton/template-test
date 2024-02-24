@@ -1,0 +1,6 @@
+.WordList {
+  columns: 3 6.3em;
+  text-transform: uppercase;
+  list-style-type: none;
+  padding-left: 0;
+}

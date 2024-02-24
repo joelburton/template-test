@@ -1,0 +1,24 @@
+.Letter {
+  width: 115px;
+  font-size: 35px;
+  position: absolute;
+  text-align: center;
+}
+
+.Letter-hex {
+  position: absolute;
+  color: silver;
+  font-size: 185px;
+  transform: rotate(30deg);
+  top: -80px;
+}
+
+.Letter-isCenter .Letter-hex {
+  color: gold;
+}
+
+.Letter span {
+  top: 25px;
+  position: relative;
+  text-transform: uppercase;
+}
